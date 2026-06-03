@@ -1,24 +1,24 @@
 {
   "version": 1,
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "network": "admob",
     "slots": {
       "home_top": {
-        "enabled": true,
+        "enabled": false,
         "unitId": ""
       },
       "home_bottom": {
-        "enabled": true,
+        "enabled": false,
         "unitId": ""
       },
       "templates_grid": {
-        "enabled": true,
+        "enabled": false,
         "unitId": "",
         "frequency": 4
       },
       "fullscreen_bottom": {
-        "enabled": true,
+        "enabled": false,
         "unitId": ""
       }
     }
