@@ -5,7 +5,7 @@
     "network": "admob",
     "slots": {
       "home_top": {
-        "enabled": false,
+        "enabled": true,
         "unitId": ""
       },
       "home_bottom": {
