@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "ads": {
+    "enabled": false,
+    "network": "admob",
+    "slots": {
+      "home_top": {
+        "enabled": false,
+        "unitId": ""
+      },
+      "home_bottom": {
+        "enabled": false,
+        "unitId": ""
+      },
+      "templates_grid": {
+        "enabled": false,
+        "unitId": "",
+        "frequency": 4
+      },
+      "fullscreen_bottom": {
+        "enabled": false,
+        "unitId": ""
+      }
+    }
+  }
+}
