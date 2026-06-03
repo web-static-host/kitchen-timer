@@ -9,16 +9,16 @@
         "unitId": ""
       },
       "home_bottom": {
-        "enabled": false,
+        "enabled": true,
         "unitId": ""
       },
       "templates_grid": {
-        "enabled": false,
+        "enabled": true,
         "unitId": "",
         "frequency": 4
       },
       "fullscreen_bottom": {
-        "enabled": false,
+        "enabled": true,
         "unitId": ""
       }
     }
