@@ -24,9 +24,9 @@
       }
       },
       "announcement": {
-      "enabled": false,
+      "enabled": true,
       "targetVersion": "1.1.0",
-      "title": "Доступно обновление 1.test",
+      "title": "Доступно обновление 2.test",
       "message": "Добавлены новые функции, исправлены баги",
       "buttonText": "Обновить",
       "urls": {
