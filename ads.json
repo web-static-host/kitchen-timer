@@ -1,7 +1,7 @@
 {
   "version": 1,
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "network": "admob",
     "slots": {
       "home_top": {
@@ -24,7 +24,7 @@
       }
       },
       "announcement": {
-      "enabled": true,
+      "enabled": false,
       "targetVersion": "1.0",
       "title": "Доступно обновление 4.test",
       "message": "Добавлены новые функции, исправлены баги",
