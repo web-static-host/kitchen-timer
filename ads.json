@@ -21,6 +21,8 @@
         "enabled": false,
         "unitId": ""
       }
+      }
+      },
       "announcement": {
     "enabled": true,
     "title": "Доступно обновление 1.test",
@@ -28,8 +30,6 @@
     "buttonText": "Обновить",
     "url": "https://play.google.com/store/apps/details?id=com.kitchentimer.app",
     "dismissible": true
-  }
-    }
   }
 }
 
