@@ -24,12 +24,19 @@
       }
       },
       "announcement": {
-    "enabled": true,
-    "title": "Доступно обновление 1.test",
-    "message": "Добавлены новые функции, исправлены баги",
-    "buttonText": "Обновить",
-    "url": "https://play.google.com/store/apps/details?id=com.kitchentimer.app",
-    "dismissible": true
+      "enabled": false,
+      "targetVersion": "1.1.0",
+      "title": "Доступно обновление 1.test",
+      "message": "Добавлены новые функции, исправлены баги",
+      "buttonText": "Обновить",
+      "urls": {
+        "play": "market://details?id=...",
+        "rustore": "rustore://apps.rustore.ru/app/...",
+        "huawei": "appmarket://details?id=...",
+        "nashstore": "nashstore://...",
+        "fallback": "https://play.google.com/store/apps/details?id=..." 
+      },
+      "dismissible": true
   }
 }
 
