@@ -1,13 +1,13 @@
 {
   "version": 1,
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "network": "admob",
     "slots": {
-      "favorites_top": { "enabled": true, "unitId": "" },
-      "lists_top": { "enabled": true, "unitId": "" },
-      "list_top": { "enabled": true, "unitId": "" },
-      "list_before_bottom": { "enabled": true, "unitId": "" }
+      "favorites_top": { "enabled": false, "unitId": "" },
+      "lists_top": { "enabled": false, "unitId": "" },
+      "list_top": { "enabled": false, "unitId": "" },
+      "list_before_bottom": { "enabled": false, "unitId": "" }
     }
   },
   "announcement": {
