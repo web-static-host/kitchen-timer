@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "ads": {
+    "enabled": false,
+    "network": "admob",
+    "slots": {
+      "favorites_top": { "enabled": false, "unitId": "" },
+      "lists_top": { "enabled": false, "unitId": "" },
+      "list_top": { "enabled": false, "unitId": "" },
+      "list_before_bottom": { "enabled": false, "unitId": "" }
+    }
+  },
+  "announcement": {
+    "enabled": false,
+    "targetVersion": "1.1",
+    "title": "Доступно обновление",
+    "message": "Добавлены новые функции и исправления.",
+    "buttonText": "Обновить",
+    "urls": {
+      "rustore": "rustore://apps.rustore.ru/app/com.lists.app",
+      "fallback": "https://www.rustore.ru/catalog/app/com.lists.app"
+    },
+    "dismissible": true
+  }
+}
