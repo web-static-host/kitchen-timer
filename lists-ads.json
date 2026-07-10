@@ -1,7 +1,7 @@
 {
   "version": 1,
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "network": "admob",
     "slots": {
       "favorites_top": { "enabled": true, "unitId": "" },
