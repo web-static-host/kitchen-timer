@@ -10,11 +10,11 @@
       "list_before_bottom": { "enabled": false, "unitId": "" }
     }
   },
-  "announcement": {
-    "enabled": false,
-    "targetVersion": "1.1",
-    "title": "Доступно обновление",
-    "message": "Добавлены новые функции и исправления.",
+    "announcement": {
+    "enabled": true,
+    "targetVersion": "1.0.6",
+    "title": "Доступна версия 1.0.6",
+    "message": "Добавлены фоны в списках и выбор цвета пунктов.",
     "buttonText": "Обновить",
     "urls": {
       "rustore": "rustore://apps.rustore.ru/app/com.lists.app",
